@@ -9,6 +9,6 @@ complex problems. I hold a Bachelor's degree in Mathematics and Economics from t
 
 ### Interests
 
-I love to continue expanding my knowledge in machine learning and statistics. Particularly in deep learning, Bayesian modelling and DevOps. In my spare time, I love settling shallow hypothesis' by applying machine learning to sports data. My sweet spot is leveraging AWS to create automated solutions, especially for those useless models.
+I love to continue expanding my knowledge in machine learning and statistics. Particularly in deep learning, statistical modelling and DevOps. In my spare time, I love settling shallow hypothesis' by applying machine learning to sports data. My sweet spot is leveraging AWS to create automated solutions, especially for those useless models.
 
 Outside of work and personal projects, you'll catch me doing the exact opposite... AFL, basketball and camping. 
