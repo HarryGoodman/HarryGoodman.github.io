@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Harry Goodman. I am a machine learning engineer, I enjoy developing end-to-end machine learning solutions. I enjoy the oppotunity to learn new technologies and apply machine learing to 
+complex problems. I have a Bachelor of Mathematics and a Bachelor of Economics from the University of Queensland. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Interests
 
-What else do you need?
+I love to continue expanding my knowledge in machine learning and statistics. Particularly in deep learning, Bayesian modelling and DevOps. In my spare time, I settling shallow hypotheis' by applying machine learning to sports data. My sweet spot is leveraging AWS to create automated solutions, especially for those useless models.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of work and personal projects, you'll catch me doing the exact opposite... AFL, basketball and camping. 
